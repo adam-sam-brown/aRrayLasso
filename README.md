@@ -11,5 +11,5 @@ aRrayLasso is composed of three R functions:
 3) convert.test, which predicts expression levels in a target platform from a source platform and calculates Pearson's product-moment correlation coefficients between the prediction and given target data.
 
 aRrayLasso also comes with two functions to convert existing datasets into a format usable by aRrayLasso:
-1. convert.eSet, which converts an existing ExpressionSet object to an aRrayLasso compatible matrix
-2. convert.GEO, which takes in a GEO Accession and the desired platform and returns an aRrayLasso compatible matrix
+1) convert.eSet, which converts an existing ExpressionSet object to an aRrayLasso compatible matrix
+2) convert.GEO, which takes in a GEO Accession and the desired platform and returns an aRrayLasso compatible matrix
